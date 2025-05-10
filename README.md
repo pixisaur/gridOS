@@ -3,14 +3,8 @@
 > terminal-core linux distro for hackers, devs, and system controllers.  
 > minimal. beautiful. powerful. 100% keyboard-native.
 
-```
-               _     ______  _____
-   ____ ______(_)___/ / __ \/ ___/
-  / __ `/ ___/ / __  / / / /\__ \ 
- / /_/ / /  / / /_/ / /_/ /___/ / 
- \__, /_/  /_/\__,_/\____//____/  
-/____/                            
-```
+![ChatGPT Image May 10, 2025, 01_23_52 PM](https://github.com/user-attachments/assets/98eb3d05-1d9a-4534-89bf-c60a2b1e8c66)
+
 ---
 
 ## ⚙️ what is gridOS?
