@@ -9,7 +9,7 @@
 
 ## ⚙️ what is gridOS?
 
-`gridOS` is a terminal-only Linux distro built from scratch using Ubuntu Core with:
+`gridOS` is a terminal-only Linux distro built from Fedora, baked with:
 
 - full TUI-based install system
 - custom terminal UI with starship, zsh/fish, tmux
